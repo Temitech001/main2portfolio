@@ -143,10 +143,10 @@ const Navbar = () => {
         </li>
       </ul>
 
-      {/* Social icons */}
-      <div className="  lg:flex fixed lg:flex-col top-[35%] left-0">
-        <ul className="">
-          <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
+      {/* Social icons flex flex-row hidden lg:flex fixed lg:flex-col top -[35%] left-0  was initially up the parent div */}
+      <div className=" ">
+        <ul className=" flex-row hidden lg:flex fixed lg:flex-col top-[35%] left-0">
+          <li className=" flex-row w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
               href="/"

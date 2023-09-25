@@ -34,7 +34,7 @@ export const data = [
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695633720/2023-09-25_05-21-01-93_nwvxil.png',
     github: 'https://github.com/Temitech001/food',
-    live: 'https://vercel.com/temidev001/food-resturant',
+    live: 'https://food-resturant-six.vercel.app/',
   },
   {
     id: 5,
