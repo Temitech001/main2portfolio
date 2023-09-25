@@ -21,14 +21,34 @@ const About = () => {
               Hi. I'm Monsuru Samuel, nice to meet you. Please take a look
               around.
             </p>
+            <img
+              className="w-[220px] h-[260px] mt-6 ml-[100px]"
+              src="https://res.cloudinary.com/dutvrzezk/image/upload/v1695112715/newpics_ecj2hh.jpg"
+              alt="my pics"
+            />
           </div>
           <div>
             <p>
-              I am passionate about building excellent software that improves
-              the lives of those around me. I specialize in creating software
-              for clients ranging from individuals and small-businesses all the
-              way to large enterprise corporations. What would you do if you had
-              a software expert available at your fingertips?
+              i passionate web developer with a knack for creating visually
+              stunning designs that captivate audiences. I believe that great
+              design should be accessible to everyone, and that's what drives me
+              to craft user-friendly websites that leave a lasting impression.
+              <p>
+                By day, I'm a dedicated full-stack web developer, leveraging my
+                experience in the field to bring innovative solutions to life. I
+                enjoy the dynamic nature of my work, constantly pushing
+                boundaries to deliver seamless experiences and optimize websites
+                for better search engine visibility.
+              </p>
+              <p>
+                Beyond the realm of code and design, I find joy in the simple
+                pleasures of life. Music is a passion of mine, serving as a
+                constant source of inspiration and motivation throughout my
+                creative journey. And when I'm not coding or designing, you can
+                find me enjoying the refreshing embrace of the water, as
+                swimming provides me with the perfect outlet for relaxation and
+                rejuvenation.
+              </p>
             </p>
           </div>
         </div>

@@ -50,7 +50,7 @@ export const data = [
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695630502/2023-09-25_04-17-14-37_kek6l5.png',
     github: 'https://github.com/Temitech001/form-validation',
-    live: 'https://form-validation-psi-ten.vercel.app/',
+    live: 'https://mymainportfolio-flax.vercel.app/',
   },
   {
     id: 7,

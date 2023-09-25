@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+
 import {
   FaBars,
   FaTimes,
@@ -22,7 +23,7 @@ const Navbar = () => {
       <div className="font-extrabold ml-7">TEMI</div>
 
       {/* menu */}
-      <ul className="hidden md:flex">
+      <ul className=" sm:flex sm:flex-row">
         <li>
           <Link
             to="home"
@@ -143,8 +144,8 @@ const Navbar = () => {
       </ul>
 
       {/* Social icons */}
-      <div className="hidden lg:flex fixed flex-col top-[35%] left-0">
-        <ul>
+      <div className="  lg:flex fixed lg:flex-col top-[35%] left-0">
+        <ul className="">
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600">
             <a
               className="flex justify-between items-center w-full text-gray-300"
