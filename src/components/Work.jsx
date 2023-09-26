@@ -12,15 +12,15 @@ const Work = () => {
       className="w-full md:h-screen text-slate-900 bg-slate-100 mt-[300px]"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className="pb-8">
+        <div className="pb-8 hidden lg:block  ">
           <p className="text-4xl font-bold inline border-b-4 text-slate-900 border-pink-600">
-            Work
+            Project
           </p>
-          <p className="py-6">Check out some of my recent work</p>
+          <p className="py-6 ">Check out some of my recent work</p>
         </div>
 
         {/* container for projects */}
-        <div className="grid sm:grid-cols-2 md:grid-cols-3 gap-4">
+        <div className="lg:grid hidden sm:grid-cols-2 md:grid-cols-3 gap-4">
           {/* Gird Item */}
           {project.map((item, index) => (
             <div

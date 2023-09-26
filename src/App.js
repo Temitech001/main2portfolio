@@ -5,6 +5,7 @@ import Navbar from './components/Navbar';
 import Skills from './components/Skills';
 import Work from './components/Work';
 import Navbar2 from './components/Navbar2';
+import Couresel from './components/Couresel';
 
 function App() {
   return (
@@ -13,6 +14,7 @@ function App() {
       <Home />
       <About />
       <Skills />
+      <Couresel />
       <Work />
       <Contact />
       <Navbar2 />

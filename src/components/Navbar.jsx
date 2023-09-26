@@ -57,7 +57,7 @@ const Navbar = () => {
             smooth={true}
             duration={500}
           >
-            Work
+            Project
           </Link>
         </li>
         <li>
