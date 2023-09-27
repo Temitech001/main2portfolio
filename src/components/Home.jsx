@@ -17,7 +17,7 @@ const Home = () => {
         </h1>
         <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] ">
           <p className="">
-            <typewritten-text> Full Stack Web Developer.</typewritten-text>
+            <typewritten-text> A Software Developer.</typewritten-text>
           </p>
         </h2>
         <p className="text-slate-900 font-semibold py-4 max-w-[700px]">
@@ -29,7 +29,7 @@ const Home = () => {
           outstanding solutions tailored to your needs.
         </p>
         <div>
-          <button className="text-slate-900 group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600">
+          <button className="text-slate-900 group border-2 px-6 py-3 my-2 flex items-center hover:bg-pink-600 hover:border-pink-600 mt-5">
             View Work
             <span className="group-hover:rotate-90 duration-300">
               <HiArrowNarrowRight className="ml-3 " />
