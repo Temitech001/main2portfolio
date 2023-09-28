@@ -75,9 +75,9 @@ export const data = [
     id: 9,
     name: 'Form Validation',
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695046868/forvalida_kfk51r.png',
-    github: 'https://github.com/Temitech001/form-validation',
-    live: 'https://form-validation-psi-ten.vercel.app/',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-11-07-79_bxzz0v.png',
+    github: 'https://github.com/Temitech001/flashCard',
+    live: 'https://flash-card-pr.vercel.app/',
   },
   {
     id: 10,
@@ -87,21 +87,21 @@ export const data = [
     github: 'https://github.com/Temitech001/piggame',
     live: 'https://piggame-smoky.vercel.app/',
   },
+
   {
     id: 11,
+    name: 'Form Validation',
+    image:
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-11-07-79_bxzz0v.png',
+    github: 'https://github.com/Temitech001/forkify',
+    live: 'https://forkifyproject.vercel.app/',
+  },
+  {
+    id: 12,
     name: 'A Walk out Tracker',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695631964/2023-09-18_10-10-57-31_ntsacf.png',
     github: 'https://github.com/Temitech001/map',
     live: 'https://walkouttracker.vercel.app/',
-  },
-
-  {
-    id: 12,
-    name: 'Form Validation',
-    image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695046868/forvalida_kfk51r.png',
-    github: 'https://github.com/Temitech001/form-validation',
-    live: 'https://form-validation-psi-ten.vercel.app/',
   },
 ];

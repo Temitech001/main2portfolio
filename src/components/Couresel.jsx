@@ -51,9 +51,9 @@ function Couresel() {
               >
                 <button
                   className="text-center rounded-lg px-4 py-3 m-2
-                     bg-white text-gray-700 font-bold text-lg"
+                 bg-white text-gray-700 font-bold text-lg"
                 >
-                  Code
+                  Live Demo
                 </button>
               </a>
               {/* eslint-disable-next-line */}
@@ -65,7 +65,7 @@ function Couresel() {
                   className="text-center rounded-lg px-4 py-3 m-2
                      bg-white text-gray-700 font-bold text-lg"
                 >
-                  Live Demo
+                  Code
                 </button>
               </a>
             </div>
