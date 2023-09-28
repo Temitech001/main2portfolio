@@ -73,7 +73,7 @@ export const data = [
 
   {
     id: 9,
-    name: 'Flash Card',
+    name: 'Flash-Card',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-09-04-51_w1fmsq.png',
     github: 'https://github.com/Temitech001/flashCard',
