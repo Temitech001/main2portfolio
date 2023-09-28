@@ -41,7 +41,7 @@ export const data = [
     id: 5,
     name: 'Pizza Order Website',
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695046868/forvalida_kfk51r.png',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695630503/2023-09-25_04-16-03-36_rmqrge.png',
     github: 'https://github.com/Temitech001/pizza',
     live: 'https://pizza-eight-eta.vercel.app/',
   },
