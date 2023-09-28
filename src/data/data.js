@@ -90,18 +90,18 @@ export const data = [
 
   {
     id: 11,
-    name: 'Form Validation',
+    name: 'Suprise Me',
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-11-07-79_bxzz0v.png',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695911670/2023-09-28_10-33-52-08_dwaduk.png',
     github: 'https://github.com/Temitech001/forkify',
-    live: 'https://forkifyproject.vercel.app/',
+    live: 'https://profiles-red.vercel.app/',
   },
   {
     id: 12,
     name: 'A Walk out Tracker',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695631964/2023-09-18_10-10-57-31_ntsacf.png',
-    github: 'https://github.com/Temitech001/map',
+    github: 'https://github.com/Temitech001/profiles',
     live: 'https://walkouttracker.vercel.app/',
   },
 ];
