@@ -28,9 +28,15 @@ function Couresel() {
         </button>
         <div
           key={index}
-          style={{ backgroundImage: `url(${currentProject.image})` }}
+          style={{
+            backgroundImage: `url(${currentProject.image}) `,
+            backgroundSize: 'cover', // You can use 'cover', 'contain',
+            backgroundPosition: 'center center',
+            height: '250px',
+            width: '250px',
+          }}
           className="shadow-lg shadow-[#040c16] group container rounded-md 
-            flex justify-center text-center items-center mx-auto content-div h-[200px] "
+            flex justify-center text-center items-center mx-auto content-div h-[250px] "
         >
           {/* Hover effect for images */}
           <div className="opacity-0 group-hover:opacity-100 ">
