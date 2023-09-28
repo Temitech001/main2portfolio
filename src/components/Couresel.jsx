@@ -16,11 +16,9 @@ function Couresel() {
   return (
     <div
       id="project"
-      className=" bg-slate-100 flex  mt-[150px] flex-col  items-center justify-center gap-10 h-screen lg:hidden mx-[50px]"
+      className=" bg-slate-100 flex  mt-[130px] flex-col  items-center justify-center gap-10 h-screen lg:hidden mx-[50px] "
     >
-      <h2 className="flex justify-center  text-2xl font-semibold mt-6">
-        Project
-      </h2>
+      <h2 className="flex justify-center  text-2xl font-semibold ">Project</h2>
       <div className="flex justify-center items-center gap-5">
         <button
           onClick={handlePrevious}
