@@ -46,7 +46,7 @@ function Couresel() {
             <div className="pt-8 text-center ">
               {/* eslint-disable-next-line */}
               <a
-                href={currentProject.github}
+                href={currentProject.live}
                 target="_blank"
               >
                 <button
@@ -58,7 +58,7 @@ function Couresel() {
               </a>
               {/* eslint-disable-next-line */}
               <a
-                href={currentProject.live}
+                href={currentProject.github}
                 target="_blank"
               >
                 <button
