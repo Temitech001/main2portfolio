@@ -21,7 +21,7 @@ const Home = () => {
           </p>
         </h2>
         <p className="text-slate-900 font-semibold py-4 max-w-[700px]">
-          I'm a freelance Fullstack Web Developer with a passion for crafting
+          I'm a freelance Front-End Web Developer with a passion for crafting
           exceptional digital experiences. My expertise lies in building
           accessible, human-centered, and SEO-friendly products. As a
           freelancer, I have the flexibility to work on various projects and I'm
