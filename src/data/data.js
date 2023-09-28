@@ -75,7 +75,7 @@ export const data = [
     id: 9,
     name: 'Flash Card',
     image:
-      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-11-07-79_bxzz0v.png',
+      'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-09-04-51_w1fmsq.png',
     github: 'https://github.com/Temitech001/flashCard',
     live: 'https://flash-card-pr.vercel.app/',
   },
@@ -92,7 +92,7 @@ export const data = [
     name: 'A Walk out Tracker',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695631964/2023-09-18_10-10-57-31_ntsacf.png',
-    github: 'https://github.com/Temitech001/forkify',
+    github: 'https://github.com/Temitech001/map',
     live: 'https://walkouttracker.vercel.app/',
   },
 
