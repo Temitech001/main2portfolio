@@ -16,11 +16,8 @@ const About = () => {
           <div></div>
         </div>
         <div className="max-w-[1000px] w-full grid sm:grid-cols-2 gap-8 px-4">
-          <div className=" sm:text-right text-sm lg:text-4xl font-bold">
-            <p className="fo">
-              Hi. I'm Monsuru Samuel, nice to meet you. Please take a look
-              around.
-            </p>
+          <div className=" ml-4 sm:text-right text-sm lg:text-4xl font-bold">
+            <p className="text-center text-lg font-">PERSONA BLURB</p>
 
             <img
               className="w-[220px] h-[260px] mt-6 lg:ml-[70px] ml-9"
@@ -28,12 +25,13 @@ const About = () => {
               alt="my pics"
             />
           </div>
-          <div className="text-sm px-3">
-            <p>
-              i'm passionate web developer with a knack for creating visually
-              stunning designs that captivate audiences. I believe that great
-              design should be accessible to everyone, and that's what drives me
-              to craft user-friendly websites that leave a lasting impression.
+          <div className="text-center  text-xs px-2 font-semibold bg-slate-100 mx-4">
+            <p className="w-[340px]">
+              Hey there! i'm Monsuru Samuel, nice to meet you.i'm passionate web
+              developer with a knack for creating visually stunning designs that
+              captivate audiences. I believe that great design should be
+              accessible to everyone, and that's what drives me to craft
+              user-friendly websites that leave a lasting impression.
               <p>
                 By day, I'm a dedicated full-stack web developer, leveraging my
                 experience in the field to bring innovative solutions to life. I

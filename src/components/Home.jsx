@@ -11,11 +11,11 @@ const Home = () => {
     >
       {/* Container */}
       <div className=" w-[100%] max-w-[750px] mx-auto px-8 flex flex-col justify-center h-full">
-        <p className="text-pink-600">Hi, my name is</p>
-        <h1 className=" text-sm md:text-4xl font-bold text-slate-900 ">
+        <p className="text-pink-600 mt-[80px]">Hi, my name is</p>
+        <h1 className=" mt-2 text-sm md:text-4xl font-bold text-slate-900 ">
           Monsuru Samuel T.
         </h1>
-        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] ">
+        <h2 className="text-4xl sm:text-7xl font-bold text-[#8892b0] mt-2 ">
           <p className="">
             <typewritten-text> A Software Developer.</typewritten-text>
           </p>

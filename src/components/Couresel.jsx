@@ -16,7 +16,7 @@ function Couresel() {
   return (
     <div
       id="project"
-      className="  flex bg-slate-100 mt-[120px] flex-col  items-center justify-center gap-10 h-screen lg:hidden mx-[50px] "
+      className="  flex bg-slate-100 mt-[200px] flex-col  items-center justify-center gap-10 h-[400px] lg:hidden mx-[50px] "
     >
       <h2 className=" flex justify-center  text-2xl font-semibold ">Project</h2>
       <div className="flex justify-center items-center gap-5">
@@ -30,7 +30,7 @@ function Couresel() {
           key={index}
           style={{ backgroundImage: `url(${currentProject.image})` }}
           className="shadow-lg shadow-[#040c16] group container rounded-md 
-            flex justify-center text-center items-center mx-auto content-div  "
+            flex justify-center text-center items-center mx-auto content-div h-[200px] "
         >
           {/* Hover effect for images */}
           <div className="opacity-0 group-hover:opacity-100 ">
