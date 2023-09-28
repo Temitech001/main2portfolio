@@ -30,7 +30,7 @@ const About = () => {
           </div>
           <div className="text-sm px-3">
             <p>
-              i passionate web developer with a knack for creating visually
+              i'm passionate web developer with a knack for creating visually
               stunning designs that captivate audiences. I believe that great
               design should be accessible to everyone, and that's what drives me
               to craft user-friendly websites that leave a lasting impression.
