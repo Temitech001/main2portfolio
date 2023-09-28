@@ -16,7 +16,7 @@ function Couresel() {
   return (
     <div
       id="project"
-      className="flex w-[100%] w-max-[80%] mt-[150px] flex-col  items-center justify-center gap-10 h-screen lg:hidden"
+      className=" bg-slate-100 flex  mt-[150px] flex-col  items-center justify-center gap-10 h-screen lg:hidden mx-[50px]"
     >
       <h2 className="flex justify-center  text-2xl font-semibold mt-6">
         Project
@@ -24,7 +24,7 @@ function Couresel() {
       <div className="flex justify-center items-center gap-5">
         <button
           onClick={handlePrevious}
-          className=" relative border rounded bg-slate-400 pl-3 pr-3"
+          className=" relative border rounded-full  bg-orange-300  pl-3 pr-3 w-[50px]  h-[50px]"
         >
           left
         </button>
@@ -69,7 +69,7 @@ function Couresel() {
         </div>
         <button
           onClick={handleNext}
-          className="rel border rounded bg-slate-400 pl-3 pr-3"
+          className="rel border rounded-full bg-orange-300  pl-3 pr-3 w-[50px]  h-[50px]"
         >
           right
         </button>

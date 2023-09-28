@@ -16,7 +16,7 @@ const Navbar2 = () => {
           <li className=" flex-row flex  items-center  bg-blue-600">
             <a
               className="flex  items-center w-full "
-              href="/"
+              href="https://www.linkedin.com/in/temitech001/"
             >
               <FaLinkedin size={20} />
             </a>
@@ -24,7 +24,7 @@ const Navbar2 = () => {
           <li className=" flex  items-center  bg-[#333333]">
             <a
               className="flex  items-center w-full text-gray-300"
-              href="/"
+              href="https://github.com/Temitech001"
             >
               <FaGithub size={20} />
             </a>

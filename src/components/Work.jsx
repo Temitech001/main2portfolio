@@ -9,10 +9,10 @@ const Work = () => {
   return (
     <div
       name="work"
-      className="w-full md:h-screen text-slate-900 bg-slate-100 mt-[300px]"
+      className="w-full md:h-screen text-slate-900 bg-slate-100 mt-[350px]"
     >
       <div className="max-w-[1000px] mx-auto p-4 flex flex-col justify-center w-full h-full">
-        <div className="pb-8 hidden lg:block  ">
+        <div className="pb-8 hidden lg:block text-center ">
           <p className="text-4xl font-bold inline border-b-4 text-slate-900 border-pink-600">
             Project
           </p>
