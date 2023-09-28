@@ -67,13 +67,13 @@ export const data = [
     name: 'My Porfolio Website',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695630502/2023-09-25_04-17-14-37_kek6l5.png',
-    github: 'https://github.com/Temitech001/form-validation',
+    github: 'https://github.com/Temitech001/main2portfolio',
     live: 'https://mymainportfolio-flax.vercel.app/',
   },
 
   {
     id: 9,
-    name: 'Form Validation',
+    name: 'Flash Card',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695910405/2023-09-28_10-11-07-79_bxzz0v.png',
     github: 'https://github.com/Temitech001/flashCard',
@@ -92,7 +92,7 @@ export const data = [
     name: 'A Walk out Tracker',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695631964/2023-09-18_10-10-57-31_ntsacf.png',
-    github: 'https://github.com/Temitech001/profiles',
+    github: 'https://github.com/Temitech001/forkify',
     live: 'https://walkouttracker.vercel.app/',
   },
 
@@ -101,7 +101,7 @@ export const data = [
     name: 'Suprise Me',
     image:
       'https://res.cloudinary.com/dutvrzezk/image/upload/v1695911670/2023-09-28_10-33-52-08_dwaduk.png',
-    github: 'https://github.com/Temitech001/forkify',
+    github: 'https://github.com/Temitech001/profiles',
     live: 'https://profiles-red.vercel.app/',
   },
 ];
