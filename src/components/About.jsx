@@ -25,7 +25,7 @@ const About = () => {
               alt="my pics"
             />
           </div>
-          <div className="text-center  text-xs  pr-2 font-semibold bg-slate-100 mx-4">
+          <div className="text-center  text-sm  pr-2 font-semibold bg-slate-100 mx-4">
             <p className="w-[340px]">
               Hey there! i'm Monsuru Samuel, nice to meet you.i'm passionate web
               developer with a knack for creating visually stunning designs that
