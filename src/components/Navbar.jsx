@@ -20,7 +20,9 @@ const Navbar = () => {
 
   return (
     <div className="fixed w-screen z-50 h-[80px] flex justify-between items-center px-4 bg-[#0a192f] text-gray-300">
-      <div className="font-extrabold ml-7 ">TEMI</div>
+      <div className="font-extrabold ml-7 ">
+        <a href="/">TEMi</a>
+      </div>
 
       {/* menu */}
       <ul className=" hidden lg:flex ">
