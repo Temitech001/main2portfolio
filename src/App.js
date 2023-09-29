@@ -9,7 +9,7 @@ import Couresel from './components/Couresel';
 
 function App() {
   return (
-    <div>
+    <div className="w-screen overflow-hidden ">
       <Navbar />
       <Home />
       <About />
