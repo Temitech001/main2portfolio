@@ -55,7 +55,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link
-            to="project"
+            to="Project"
             smooth={true}
             duration={500}
           >
@@ -125,7 +125,7 @@ const Navbar = () => {
           {' '}
           <Link
             onClick={handleClick}
-            to="work"
+            to="project"
             smooth={true}
             duration={500}
           >
