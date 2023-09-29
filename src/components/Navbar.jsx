@@ -74,7 +74,7 @@ const Navbar = () => {
       {/* Hamburger */}
       <div
         onClick={handleClick}
-        className="lg:hidden z-10 ml-[17rem] md:ml-[35rem]"
+        className="lg:hidden z-10 ml-[15rem] md:ml-[35rem] "
       >
         {!nav ? <FaBars /> : <FaTimes />}
       </div>
@@ -84,7 +84,7 @@ const Navbar = () => {
         className={
           !nav
             ? 'hidden'
-            : 'absolute top-0 left-0 w-full text-xl h-screen bg-[#0a192f] flex flex-col pt-20 items-center'
+            : 'absolute top-0 left-0 w-full text-xl h-screen bg-[#0a192f] flex flex-col pt-20  items-center'
         }
       >
         <li className="py-6">
