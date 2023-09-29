@@ -53,7 +53,7 @@ const Navbar = () => {
         </li>
         <li>
           <Link
-            to="work"
+            to="Project"
             smooth={true}
             duration={500}
           >
