@@ -75,7 +75,7 @@ const Navbar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://drive.google.com/file/d/1f2XxkV34in18yWZpXt2YdqH5uhivQx7S/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1_yQB-6IU-chOiUMZohdPaW3LgSOMemOb/view?usp=drivesdk"
           >
             Resume
           </a>
@@ -155,7 +155,7 @@ const Navbar = () => {
           <a
             target="_blank"
             rel="noreferrer"
-            href="https://drive.google.com/file/d/1f2XxkV34in18yWZpXt2YdqH5uhivQx7S/view?usp=drivesdk"
+            href="https://drive.google.com/file/d/1_yQB-6IU-chOiUMZohdPaW3LgSOMemOb/view?usp=drivesdk"
           >
             Resume
           </a>
@@ -192,7 +192,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="https://drive.google.com/file/d/1f2XxkV34in18yWZpXt2YdqH5uhivQx7S/view?usp=drivesdk"
+              href="https://drive.google.com/file/d/1_yQB-6IU-chOiUMZohdPaW3LgSOMemOb/view?usp=drivesdk"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
