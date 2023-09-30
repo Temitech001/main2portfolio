@@ -32,7 +32,7 @@ const Navbar2 = () => {
           <li className="flex  items-center  bg-[#6fc2b0]">
             <a
               className="flex  items-center w-full text-gray-300"
-              href="/"
+              href="olaoluwasamuel119@gmail.com"
             >
               <HiOutlineMail size={20} />
             </a>
@@ -51,6 +51,15 @@ const Navbar2 = () => {
               href="https://twitter.com/Temini001"
             >
               <AiFillTwitterCircle size={20} />
+            </a>
+          </li>
+          <li className="w-[60px] h-[60px] flex items-center  bg-[#565f69]">
+            <a
+              target="_blank"
+              rel="noreferrer"
+              href="https://drive.google.com/file/d/131vW5x5HqoP_34V6MKq90s8XpJs2vgBs/view?usp=sharing"
+            >
+              Res
             </a>
           </li>
         </ul>

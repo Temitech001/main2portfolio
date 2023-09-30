@@ -71,6 +71,15 @@ const Navbar = () => {
             Contact
           </Link>
         </li>
+        <li>
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://drive.google.com/file/d/131vW5x5HqoP_34V6MKq90s8XpJs2vgBs/view?usp=sharing"
+          >
+            Resume
+          </a>
+        </li>
       </ul>
 
       {/* Hamburger */}
@@ -142,6 +151,15 @@ const Navbar = () => {
             Contact
           </Link>
         </li>
+        <li className="py-6">
+          <a
+            target="_blank"
+            rel="noreferrer"
+            href="https://drive.google.com/file/d/131vW5x5HqoP_34V6MKq90s8XpJs2vgBs/view?usp=sharing"
+          >
+            Resume
+          </a>
+        </li>
       </ul>
 
       {/* Social icons flex flex-row hidden lg:flex fixed lg:flex-col top -[35%] left-0  was initially up the parent div */}
@@ -174,7 +192,7 @@ const Navbar = () => {
           <li className="w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]">
             <a
               className="flex justify-between items-center w-full text-gray-300"
-              href="/"
+              href="https://drive.google.com/file/d/131vW5x5HqoP_34V6MKq90s8XpJs2vgBs/view?usp=sharing"
             >
               Resume <BsFillPersonLinesFill size={30} />
             </a>
