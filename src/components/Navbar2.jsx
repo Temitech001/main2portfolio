@@ -57,7 +57,7 @@ const Navbar2 = () => {
             <a
               target="_blank"
               rel="noreferrer"
-              href="https://drive.google.com/file/d/131vW5x5HqoP_34V6MKq90s8XpJs2vgBs/view?usp=sharing"
+              href="https://drive.google.com/file/d/1wvDreYAqYTIYuuAXMldRWT-iEWyPv9ml/view?usp=drivesdk"
             >
               Res
             </a>
